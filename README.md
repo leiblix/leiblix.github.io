@@ -1,3 +1,11 @@
+### Služby
+
+- instalace a správa systému Kramerius
+- instalace a správa  metadatového editoru MEditor
+
+### Kontakt
+martin@rumanek.cz
+
 ### Fakturační údaje
 ```
 Martin Rumánek
