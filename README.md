@@ -1,2 +1,2 @@
 ### Kontakt
-martin@rumanek.cz
+martin@leiblinger.cz
