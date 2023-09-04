@@ -1,2 +1,0 @@
-### Kontakt
-martin@leiblinger.cz
